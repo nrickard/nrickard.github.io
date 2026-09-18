@@ -19,7 +19,7 @@ I am a research economist at the Bank of England, and received a PhD in Economic
 - **[Non-Essential Business Cycles](http://nrickard.github.io/files/AndreolliRickardSurico_NEBC.pdf)**, with Michele Andreolli and Paolo Surico — Revise and Resubmit, Review of Economic Studies  
   <sub>*[Online Appendix](http://nrickard.github.io/files/AndreolliRickardSurico_NEBC_OnlineAppendix.pdf)* · *[VOXEU Summary](https://cepr.org/voxeu/columns/how-spending-rich-drives-income-poor-and-why-matters-business-cycle)*</sub>  
   <sub>*Media coverage: [JP Morgan Private Bank Insights](https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/how-will-the-rate-cutting-cycle-impact-economic-activity-and-market-returns)*</sub>  
- <sub>*Presented:  PSE Macro Days, Barcelona School of Economics Summer Forum\*, CREi/UPF\*, Boston College\*, LBS, Norges Bank\*, EWMES, SEA\*, RES\*, ECB ChaMP Conference\*, Midwest Macro, NASM of the Econometric Society\*, SED, NBERSI (Monetary Economics)\*, Oslo Macro Conference, Princeton, Bocconi\*, LSE\* \**</sub>
+ <sub>*Presented:  PSE Macro Days, Barcelona School of Economics Summer Forum\*, CREi/UPF\*, Boston College\*, LBS, Norges Bank\*, EWMES, SEA\*, RES\*, ECB ChaMP Conference\*, Midwest Macro, NASM of the Econometric Society\*, SED, NBERSI (Monetary Economics)\*, Oslo Macro Conference, Princeton\*, Bocconi\*, LSE\* \*</sub>
 
 - **[Sheltering from Climate Risks](http://nrickard.github.io/files/NatalieRickard_JMP.pdf)**  
   <sub>*Presented: LBS, NYU Student Lunch, SED, EEA Congress 2025, Bank of England, DNB, IIES, Bocconi, LSE Finance, CREI, IFS, Imperial, Warwick*</sub>
