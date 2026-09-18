@@ -26,8 +26,6 @@ I am a research economist at the Bank of England, and received a PhD in Economic
 
 - **[Capital Vintage and the Carbon Premium](http://nrickard.github.io/files/GilchristMartinezRickard_CapitalVintageCarbonPremium.pdf)**, with Simon Gilchrist and Joseba Martinez
 
-### Work in Progress
-
 - **[The Green Energy Transition in a Putty-Clay Model of Capital](http://nrickard.github.io/files/GreenTransitionPuttyClay_GilchristMartinezRickard.pdf)**, with Simon Gilchrist and Joseba Martinez  
   <sub>*Recipient of a grant from the [Wheeler Institute, supported by the Sui Foundation](https://wheelerinstituteresearch.org/project/putty-clay-and-the-green-transition/)*</sub>  
   <sub>*Presented: NYU Stern Macro lunch\*, CREi/UPF\*, Imperial\*, Maryland\*, Chicago\*, SED\*, 3CMFI, Bank of England*</sub>
@@ -37,7 +35,8 @@ I am a research economist at the Bank of England, and received a PhD in Economic
   <sub>*Prepared for the ECB Forum on Central Banking, Sintra*</sub>  
   <sub>*Presented: EABCN/BoE Heterogeneous Agent Workshop, Boston College\*, SEA Conference\*, 24th Workshop on Macroeconomic Dynamics\*, Empirical Macro Group at AEA Conference\*, Fridays at the Boston Fed Workshop\*, 14th International Research Forum in Monetary Policy\*, BIS\*, BSE Summer Forum\*, SED\*, EEA*</sub>
 
-- **Orders of Importance: Gas, Renewables and the Macroeconomy**
+- **Orders of Importance: Gas, Renewables and the Macroeconomy**, with Francesca Diluiso and Boro Wanengkirtyo  
+  <sub>*Presented: World Congress of Environmental and Resource Economists 2026\*, SURED 2026 Conference\*, Summer School on Macroeconomic Modelling and Policy (University of Lorraine)\**</sub>
 
 <sub>*\* = Presentations by co-authors</sub>
 
