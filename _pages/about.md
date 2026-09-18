@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a research economist at the Bank of England, and received a PhD in Economics from London Business School in summer 2025. My research explores the implications of climate change and business cycles for different households and firms.
+I am a research economist at the Bank of England, and received a PhD in Economics from London Business School in 2025. My research explores the implications of climate change and business cycles for different households and firms.
 
 [CV](http://nrickard.github.io/files/NatalieRickard_CV.pdf)
 
